@@ -1,0 +1,2 @@
+# MinirechnerPython
+Minirechner in Python
